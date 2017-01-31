@@ -1,0 +1,3 @@
+I set the initial temperature to be 400 and the final temperature to be 0.1. Number of moves in each iteration is 50.
+These parameters give me good simulation results with acceptable run time.
+The cost function is the total links to partition B for every gate in partition A.
